@@ -106,3 +106,5 @@ A: demo final | B: defensa + puente a Spark/Big Data
 - Kimball Group (técnicas): star schema/facts/dims (solo lo esencial)
 
 El libro de Martin Kleppmann y otros 9 que conplementan muy bien el contenido del curso los encuentran en el [LINK](https://drive.google.com/drive/folders/1mALy-WvMivcfmxSqoFAgTbKzgHA-NJhP?usp=sharing)
+
+Las presentaciones usadas en clase las encuentran en el siguiente [ENLACE](https://drive.google.com/drive/folders/1QvCBWDZvUfiQLO1dGC5Avip6j7d4g4Xk?usp=sharing)
